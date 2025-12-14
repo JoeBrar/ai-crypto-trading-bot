@@ -1,0 +1,5 @@
+httpx>=0.25.2
+pydantic>=2.6.3
+python-dotenv==1.0.1
+websocket-client==1.7.0
+openai>=1.40.0,<2.0
